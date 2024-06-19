@@ -1,5 +1,3 @@
-![Bienvenido](https://yourimageurl.com/banner.png)
-
 # 👋 Hola, soy Juan Camilo Realpe
 
 ## Sobre Mí
