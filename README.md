@@ -3,6 +3,25 @@
 ## Sobre Mí
 Soy un desarrollador apasionado con un gran interés en la tecnología y el aprendizaje continuo. Disfruto resolviendo problemas complejos y colaborando con otros para crear soluciones de software increíbles.
 
+```javascript
+const aboutMe = {
+    code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
+    technologies: {
+        FrontEnd: {
+            js: ["React", "Astro"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        BackEnd: {
+            php: ["Laravel"],
+            js: ["NodeJS", "Express", "Prisma"],
+            python: ["Django"],
+        },
+        DataBases: ["MySQL", "NoSQL"]
+    },
+    currentOccupation: ["Estudiante de Análisis y Desarrollo de Software, y Desarrollador FullStack"]
+};
+
+
 ### 👀 Intereses
 - **Desarrollo Web**: Construcción de aplicaciones web responsivas y dinámicas.
 - **Aprendizaje Automático**: Exploración de datos y creación de modelos predictivos.
