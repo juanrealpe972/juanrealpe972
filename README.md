@@ -20,7 +20,7 @@ const aboutMe = {
     },
     currentOccupation: ["Estudiante de Análisis y Desarrollo de Software, y Desarrollador FullStack"]
 };
-
+```
 
 ### 👀 Intereses
 - **Desarrollo Web**: Construcción de aplicaciones web responsivas y dinámicas.
