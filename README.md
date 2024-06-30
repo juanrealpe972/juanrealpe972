@@ -33,8 +33,8 @@ const aboutMe = {
 - **Ciberseguridad**: Explorando conceptos fundamentales de ciberseguridad, incluyendo la protección de sistemas y redes, criptografía, y la gestión de vulnerabilidades. Estoy aprendiendo sobre las mejores prácticas para asegurar aplicaciones web y la implementación de medidas de seguridad efectivas para proteger los datos y la privacidad de los usuarios.
 
 ### 📫 Cómo Contactarme
-- ![Email](https://img.shields.io/badge/Email-your--email@example.com-blue?style=flat-square&logo=gmail&logoColor=white): [[juanrealpe972@gmail.com.com](mailto:juanrealpe972@gmail.com.com](https://mail.google.com/mail/u/0/#inbox))
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin): [[linkedin.com/in/juanrealpe](https://linkedin.com/in/juanrealpe](https://www.linkedin.com/in/juan-camilo-realpe-ceron-9a271526a/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanrealpe972@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-realpe-ceron-9a271526a/)
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=juanrealpe972&show_icons=true&theme=radical)
