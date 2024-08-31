@@ -36,13 +36,23 @@ const aboutMe = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanrealpe972@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-realpe-ceron-9a271526a/)
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=juanrealpe972&show_icons=true&theme=radical)
+## Estadísticas de GitHub y Lenguajes Más Usados
 
-## Lenguajes Más Usados
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrealpe972&layout=compact&theme=radical)
+| Estadísticas de GitHub | Lenguajes Más Usados |
+| --- | --- |
+| ![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=juanrealpe972&show_icons=true&theme=radical) | ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrealpe972&layout=compact&theme=radical) |
 
 ## Conéctate Conmigo
 ¡No dudes en contactarme si quieres colaborar en un proyecto, necesitas algún consejo o simplemente quieres charlar sobre tecnología!
+
+![Snake Animation](https://github.com/juanrealpe972/snake_animation/raw/output/snake.svg)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/juanrealpe972/count.svg?" />
+</div>
+
+###
 
 ---
