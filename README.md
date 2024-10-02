@@ -3,22 +3,23 @@ Soy un desarrollador apasionado con un gran interés en la tecnología y el apre
 
 ```javascript
 const aboutMe = {
-    code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
+    code: ["HTML", "CSS", "JavaScript", "PHP", "Python", "Java"],
     technologies: {
         FrontEnd: {
-            js: ["React", "React-Native", "Astro"],
+            js: ["React", "React-Native", "Astro", "Angular"],
             css: ["Tailwind", "Bootstrap"]
         },
         BackEnd: {
             php: ["Laravel"],
             js: ["NodeJS", "Express", "Prisma"],
             python: ["Django"],
+            java: ["Spring Boot"]
         },
         DataBases: ["MySQL", "NoSQL"],
-        Tools: ["Figma", "StarUML", "Postman", "Visual Studio Code", "Android Studio"],
-        OS: ["Linux"]
+        Tools: ["Figma", "Excalidraw", "Postman", "Dia", "Visual Studio Code", "Android Studio"],
+        OS: ["Ubuntu Server"]
     },
-    currentOccupation: ["Estudiante de Análisis y Desarrollo de Software, y Desarrollador FullStack"]
+    currentOccupation: ["Estudiante de Análisis y Desarrollo de Software - Desarrollador Full-Stack"]
 };
 ```
 
